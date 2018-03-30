@@ -1,0 +1,9 @@
+title = "Detective Pikachu"
+description = "Detective Pikachu is an adventure game developed by Creatures Inc., published by The Pokémon Company, and distributed by Nintendo for the Nintendo 3DS. The game is a spin-off of the Pokémon franchise, in which players work with a talking Pikachu to solve mysteries."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000018CA00"
+region = "jpn"
+release_date = "2016-02-03"
